@@ -106,13 +106,8 @@ python版本默认走服务器（2021.3.27更新）
 
 ## 链接
 
-[我的博客](https://hunsh.net)
+[hunsh的博客](https://hunsh.net)
 
 ## 参考
 
 [jsproxy](https://github.com/EtherDream/jsproxy/)
-
-## 捐赠
-
-![wx.png](https://img.maocdn.cn/img/2021/04/24/image.md.png)
-![ali.png](https://www.helloimg.com/images/2021/04/24/BK9vmb.md.png)
